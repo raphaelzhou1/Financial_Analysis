@@ -160,4 +160,10 @@ cython_debug/
 #.idea/
 
 
+<<<<<<< HEAD
 */.DS_Store
+=======
+.DS_store
+# Microsoft Excel etc
+~$*
+>>>>>>> aaafcb622ce46b2c2f5a6ba6aabbc9254db27efa
